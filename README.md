@@ -1,4 +1,4 @@
-سبز میشود و جوانه می زند این باغ و شاخه ها 🟩
+ 🟩
 <!--
 **wasiqbarat/wasiqbarat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
